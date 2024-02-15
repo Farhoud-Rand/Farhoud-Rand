@@ -22,6 +22,6 @@ These tools empower me to turn ideas into reality and solve complex problems wit
 I'm always excited to connect with fellow enthusiasts, collaborate on projects, or simply chat about the latest tech trends. Feel free to reach out via:
 
 - **Email:** [youremail@example.com](mailto:r.farhoud2000@gmail.com)
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/rand-farhoud-301b64184/)
+- **LinkedIn:** [Rand Farhoud](https://www.linkedin.com/in/rand-farhoud-301b64184/)
 
 Let's build something amazing together! 💡
