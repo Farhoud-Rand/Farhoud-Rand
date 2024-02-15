@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**Farhoud-Rand/Farhoud-Rand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in the world of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Expertise
+
+My expertise lies in crafting robust solutions using a variety of programming languages and technologies, including:
+
+- **C**
+- **Python**
+- **Java**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+These tools empower me to turn ideas into reality and solve complex problems with elegance and efficiency. 
+
+## Get in Touch
+
+I'm always excited to connect with fellow enthusiasts, collaborate on projects, or simply chat about the latest tech trends. Feel free to reach out via:
+
+- **Email:** [youremail@example.com](mailto:r.farhoud2000@gmail.com)
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/rand-farhoud-301b64184/)
+
+Let's build something amazing together! 💡
