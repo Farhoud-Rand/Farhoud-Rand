@@ -1,10 +1,7 @@
 # Welcome to My Profile! 👋
 
-## Introduction
+[![Introduction Video](https://drive.google.com/uc?export=download&id=1DK85R6wPlLxFCAMYi_TfZinADtr8_Yqk)](https://drive.google.com/file/d/1DK85R6wPlLxFCAMYi_TfZinADtr8_Yqk/view?usp=sharing)
 
-[![Introduction Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-
-(Click on the image to watch the video)
 
 ## About Me
 
