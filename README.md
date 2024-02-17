@@ -16,12 +16,6 @@ My expertise lies in crafting robust solutions using a variety of programming la
     <img src="https://skillicons.dev/icons?i=c,git,html,css,js,py" />
   </a>
 </p>
-- **C**
-- **Python**
-- **Java**
-- **HTML**
-- **CSS**
-- **JavaScript**
 
 These tools empower me to turn ideas into reality and solve complex problems with elegance and efficiency. 
 
