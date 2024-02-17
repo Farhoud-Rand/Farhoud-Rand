@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 <div align="center">
-  <img src="gif.gif" alt="Introduction">
+  <img src="gif.gif" alt="Introduction" style="width: 80rem; height: 80%;" >
 </div>
 
 <h2 align="center">
