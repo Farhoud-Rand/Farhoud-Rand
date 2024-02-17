@@ -40,8 +40,9 @@ These tools empower me to turn ideas into reality and solve complex problems wit
 
 I'm always excited to connect with fellow enthusiasts, collaborate on projects, or simply chat about the latest tech trends. Feel free to reach out via:
 
-[![Gmail Icon](Gmail-Light.svg.svg)](mailto:r.farhoud2000@gmail.com)
-[![LinkedIn](LinkedIn.svg)](https://www.linkedin.com/in/rand-farhoud-301b64184/)
+[<img src="Gmail-Light.svg" width="20" height="20">](mailto:r.farhoud2000@gmail.com)
+[<img src="LinkedIn.svg" width="20" height="20">](https://www.linkedin.com/in/rand-farhoud-301b64184/)
+
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
