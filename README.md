@@ -1,10 +1,16 @@
 # Welcome to My Profile! 👋
 
 <div align="center">
-  <img src="gif.gif" alt="Introduction Video" style="width: 80rem; height: 80%;">
+  <img src="gif.gif" alt="Introduction">
 </div>
 
-## About Me
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻
+</h2> 
+
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
+## 👩‍💻 About Me
 
 I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in the world of technology.
 
