@@ -43,7 +43,9 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.farhoud2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rand-farhoud-301b64184/)
 
-Let's build something amazing together! 💡
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- Let's build something amazing together! 💡
 
 ## 📈 GitHub Stats 
 
