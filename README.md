@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-<div align="center">
+<div align="center" style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="gif.gif" alt="Introduction" >
 </div>
 
