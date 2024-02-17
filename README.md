@@ -1,14 +1,14 @@
 # Welcome to My Profile! 👋
 
 <div align="center">
-  <img src="gif.gif" alt="Introduction Video">
+  <img src="gif.gif" alt="Introduction Video" style="width: 80%; height: auto;">
 </div>
 
 ## About Me
 
 I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in the world of technology.
 
-## Skills & Expertise
+## 💼 Technical Skills
 
 My expertise lies in crafting robust solutions using a variety of programming languages and technologies, including:
   <p align="center">
