@@ -1,5 +1,11 @@
 # Welcome to My Profile! 👋
 
+## Introduction
+
+[![Introduction Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
+(Click on the image to watch the video)
+
 ## About Me
 
 I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in the world of technology.
@@ -21,7 +27,7 @@ These tools empower me to turn ideas into reality and solve complex problems wit
 
 I'm always excited to connect with fellow enthusiasts, collaborate on projects, or simply chat about the latest tech trends. Feel free to reach out via:
 
-- **Email:** [youremail@example.com](mailto:r.farhoud2000@gmail.com)
+- **Email:** [r.farhoud@gmail.com](mailto:r.farhoud2000@gmail.com)
 - **LinkedIn:** [Rand Farhoud](https://www.linkedin.com/in/rand-farhoud-301b64184/)
 
 Let's build something amazing together! 💡
