@@ -11,7 +11,11 @@ I'm a passionate Computer Engineering graduate from Birzeit University, on a per
 ## Skills & Expertise
 
 My expertise lies in crafting robust solutions using a variety of programming languages and technologies, including:
-
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,git,html,css,js,py" />
+  </a>
+</p>
 - **C**
 - **Python**
 - **Java**
