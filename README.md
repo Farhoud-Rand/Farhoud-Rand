@@ -28,4 +28,6 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 - **Email:** [r.farhoud@gmail.com](mailto:r.farhoud2000@gmail.com)
 - **LinkedIn:** [Rand Farhoud](https://www.linkedin.com/in/rand-farhoud-301b64184/)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rand_Farhoud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Rand Farhoud/)  
+
 Let's build something amazing together! 💡
