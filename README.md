@@ -1,6 +1,10 @@
 # Welcome to My Profile! 👋
 
-![Introduction Video](gif.gif)
+<div align="center">
+  <img src="video.gif" alt="Introduction Video">
+</div>
+
+(Click on the image to watch the video)
 
 ## About Me
 
