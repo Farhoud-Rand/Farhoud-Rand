@@ -4,8 +4,6 @@
   <img src="gif.gif" alt="Introduction Video">
 </div>
 
-(Click on the image to watch the video)
-
 ## About Me
 
 I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in the world of technology.
