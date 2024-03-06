@@ -8,11 +8,11 @@
 I'm a Full-Stack Web Developer 💻
 </h2> 
 
-I am passionate about logical thinking and the process of finding multiple solutions to a problem in order to discover the best one. I thrive on the challenge of developing creative websites, where I apply my analytical skills to craft efficient and innovative solutions.
+I am passionate about logical thinking and the process of finding multiple solutions to a problem to discover the best one. I thrive on the challenge of developing creative websites, where I apply my analytical skills to craft efficient and innovative solutions.
 
 ## 👩‍💻 About Me
 
-I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in the world of technology.
+I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in technology.
 
 ## 💼 Technical Skills
 
@@ -24,7 +24,7 @@ My expertise lies in crafting robust solutions using a variety of programming la
   </a>
 </p>
 
-These tools empower me to turn ideas into reality and solve complex problems with elegance and efficiency. 
+These tools empower me to turn ideas into reality and solve complex problems elegantly and efficiently. 
 
 ## 🌱 I'm currently learning
 
@@ -34,14 +34,14 @@ These tools empower me to turn ideas into reality and solve complex problems wit
 
 ## 🤝 Get in Touch
 
-I'm always excited to connect with fellow enthusiasts, collaborate on projects, or simply chat about the latest tech trends. Feel free to reach out via:
+I'm always excited to connect with fellow enthusiasts, collaborate on projects, or chat about the latest tech trends. Feel free to reach out via:
 
 [<img src="Gmail-Light.svg" width="50" height="50">](mailto:r.farhoud2000@gmail.com)
 [<img src="LinkedIn.svg" width="50" height="50">](https://www.linkedin.com/in/rand-farhoud-301b64184/)
-[<img src="leetcode.svg" width="50" height="50">](https://leetcode.com/Rand_Farhoud/)
+[<img src="leetcode.svg" >](https://leetcode.com/Rand_Farhoud/)
 
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 </br>
 - Let's build something amazing together! 💡
 
