@@ -38,7 +38,7 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 
 [<img src="Gmail-Light.svg" width="50" height="50">](mailto:r.farhoud2000@gmail.com)
 [<img src="LinkedIn.svg" width="50" height="50">](https://www.linkedin.com/in/rand-farhoud-301b64184/)
-[<img src="leetcode.svg" >](https://leetcode.com/Rand_Farhoud/)
+[<img src="leetcode.svg" width="50" height="50">](https://leetcode.com/Rand_Farhoud/)
 
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
