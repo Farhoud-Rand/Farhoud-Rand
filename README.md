@@ -23,7 +23,7 @@ My expertise lies in crafting robust solutions using a variety of programming la
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,postman,STS" alt="Tools" />
-<img src="https://user-images.githubusercontent.com/.../codeblocks.png" alt="Codeblocks" width="50" />
+<img src="codeblock.png" alt="Codeblocks" width="50" />
 <img src="https://user-images.githubusercontent.com/.../eda-playground.png" alt="EDA Playground" width="50" />
 <img src="https://user-images.githubusercontent.com/.../sts.png" alt="STS SpringTool (STS)" width="50" />
 
