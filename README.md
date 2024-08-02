@@ -22,7 +22,7 @@ My expertise lies in crafting robust solutions using a variety of programming la
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,c" alt="Languages" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,postman" alt="Tools" /><img src="codeBlock.png" alt="Codeblocks" width="50" /><img src="eda.png" alt="EDA Playground" width="50" /><img src="sts.png" alt="STS SpringTool (STS)" width="50" /><img src="trello.png" alt="Trello" width="50" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,postman" alt="Tools" /><img src="codeBlock.png" alt="Codeblocks" width="50" /><img src="eda.png" alt="EDA Playground" width="50" /><img src="sts.png" alt="STS SpringTool (STS)" width="50" /><img src="Trello.png" alt="Trello" width="50" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" alt="Databases" />
