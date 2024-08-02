@@ -25,22 +25,21 @@ My expertise lies in crafting robust solutions using a variety of programming la
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,eclipse,postman" alt="Tools" /><img src="codeBlock.png" alt="Codeblocks" width="50" /><img src="eda.png" alt="EDA Playground" width="50" /><img src="sts.png" alt="STS SpringTool (STS)" width="50" /><img src="Trello.png" alt="Trello" width="50" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases" />
 
 ### Frameworks/Libraries
 <img src="https://skillicons.dev/icons?i=flask,jquery,aws,spring" alt="Frameworks/Libraries" />
-<img src="https://user-images.githubusercontent.com/.../jinja2.png" alt="Jinja2" width="50" />
-<img src="https://user-images.githubusercontent.com/.../ajax.png" alt="Ajax" width="50" />
-<img src="https://user-images.githubusercontent.com/.../material-ui.png" alt="Material-UI" width="50" />
-<img src="https://user-images.githubusercontent.com/.../socketio.png" alt="socket.io" width="50" />
+<img src="jinja.png" alt="Jinja2" width="50" />
+<img src="ajax.png" alt="Ajax" width="50" />
 
 These tools empower me to turn ideas into reality and solve complex problems elegantly and efficiently. 
 
 ## 🌱 I'm currently learning
 
-- Flask
-- MySQL
-- Django
+- MongoDB
+- Express.js
+- React
+- Node.js
 
 ## 🤝 Get in Touch
 
