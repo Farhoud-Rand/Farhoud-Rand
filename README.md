@@ -28,7 +28,7 @@ My expertise lies in crafting robust solutions using a variety of programming la
 <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases" />
 
 ### Frameworks/Libraries
-<img src="https://skillicons.dev/icons?i=flask,jquery,aws,spring" alt="Frameworks/Libraries" /><img src="jinja.png" alt="Jinja2" hight="50" width="50" /><img src="ajax.png" alt="Ajax" hight="50" width="50" />
+<img src="https://skillicons.dev/icons?i=flask,jquery,aws,spring" alt="Frameworks/Libraries" /><img src="R.png" alt="Jinja2" width="50" /><img src="a.png" alt="Ajax" width="50" /><img src="chartjs.svg" alt="Chartjs" width="50" /><img src="pdf.svg" alt="pdfjs" width="50" />
 
 These tools empower me to turn ideas into reality and solve complex problems elegantly and efficiently. 
 
