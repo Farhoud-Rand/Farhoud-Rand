@@ -17,8 +17,7 @@ I am passionate about logical thinking and the process of finding multiple solut
 - 👥 I love working in teams and collaborating on projects.
 - 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.
 - 🐾 I'm an animal lover and have worked on pet adoption platforms.
-- 💻 I enjoy building creative projects like *KidsWorld* and *LinkUp*.
-- 🚀 Currently expanding my skill set and exploring new horizons in technology.
+- 💻 I enjoy building creative projects.
 - 🎯 I focus on writing clean, detailed code with attention to styling and structure.
 - 💡 I enjoy tackling complex coding challenges across different tech stacks.
 
@@ -67,30 +66,11 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 - Let's build something amazing together! 💡
 
 ## 📈 GitHub Stats & Activity
-
-<p>
+<p align="center">
   <a href="https://github.com/Farhoud-Rand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=gruvbox" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" style="margin-right: 10px;" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=merko" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=tokyonight" alt="GitHub Streak" width="45%" style="margin-left: 10px;" />
   </a>
 </p>
-<p>
-  <a href="https://github.com/Farhoud-Rand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/Farhoud-Rand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&theme=cobalt" alt="Top Languages" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=cobalt" alt="GitHub Streak" />
-  </a>
-</p>
-
-
