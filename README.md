@@ -47,10 +47,30 @@ These tools empower me to turn ideas into reality and solve complex problems ele
 - Node.js
 
 ## 🚀 Projects & Achievements
+## 💼 My Projects <img src="https://your-repo-url/animated-lightbulb.gif" width="30px">
 
-### 🌟 [LinkUp - Social Media Platform](https://github.com/Farhoud-Rand/LinkUp)
-- **Tech Stack**: React, Node.js, MongoDB, Socket.io
-- **Highlights**: Real-time notifications, personalized feed, and more!
+Over the years, I've had the opportunity to work on some exciting projects, each of which helped me sharpen my skills and solve unique problems. Here’s a glimpse of what I’ve been working on:
+
+### 🔗 **LinkUp**
+**Technologies:** React, Node.js, MongoDB, Express.js  
+**Overview:**  
+LinkUp is a dynamic social media platform designed to connect users and facilitate engagement through posts, comments, and likes. Built with React on the frontend and Node.js with MongoDB on the backend, LinkUp allows users to create profiles, follow others, and interact with content in real-time. The project also integrates real-time notifications and a personalized feed, making it a robust platform for social interaction.
+
+### 🐾 **SOAR (Support Our Adoption Rescue)**
+**Technologies:** Java, Spring Boot, MySQL  
+**Overview:**  
+SOAR is a pet adoption platform aimed at connecting rescue shelters with potential adopters. Built using Java and Spring Boot, SOAR offers a secure, efficient way for users to browse pets, request adoptions, and communicate with shelters. As part of the project, I implemented complex role-based access control, allowing administrators, shop owners, and users to interact with the platform in unique ways. This project aligns with my passion for using tech to make a positive difference, especially in animal welfare.
+
+### 📚 **KidsWorld**
+**Technologies:** Django, SQLite  
+**Overview:**  
+KidsWorld is an interactive platform where children can discover educational and entertaining stories. The app features a vibrant UI with parental control features, making it a safe space for children to explore content. With React on the frontend and Django powering the backend, KidsWorld allows parents to monitor their children’s reading activities while providing a fun, engaging experience. I particularly enjoyed working on the content filtering system and designing the frontend to be both playful and user-friendly.
+
+### 🚗 **ParkRamallah**
+**Technologies:** Django, SQLite  
+**Overview:**  
+ParkRamallah is a municipal parking management system for the city of Ramallah. Developed with Django, it allows users to find available parking spots, reserve them, and pay via a secure online platform. Administrators can monitor parking lot usage, manage users, and optimize parking solutions based on real-time data. This project was an excellent opportunity for me to dive deeper into geolocation services and city infrastructure technology.
+
   
 ## 🤝 Get in Touch
 
