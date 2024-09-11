@@ -6,7 +6,7 @@ Hi, I'm Rand Farhoud
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <div>
+  <p>
     <h2>👩‍💻 About Me</h2>
     <ul>
       <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
@@ -17,7 +17,7 @@ Hi, I'm Rand Farhoud
       <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
       <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
     </ul>
-  </div>
+  </p>
   <img src="Version control.gif" width="300" alt="Version Control GIF">
 </div>
 
