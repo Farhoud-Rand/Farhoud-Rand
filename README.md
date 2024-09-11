@@ -4,26 +4,18 @@ Hi, I'm Rand Farhoud
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
-
-<h2 align="center">👩‍💻 About Me</h2>
-
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 0 auto; max-width: 800px;">
-  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
-    <ul>
-      <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
-      <li>👥 I love working in teams and collaborating on projects.</li>
-      <li>👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
-      <li>🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
-      <li>💻 I enjoy building creative projects.</li>
-      <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
-      <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
-    </ul>
-  </div>
-  <img src="Version control.gif" width="300" alt="Version Control GIF" style="flex-shrink: 0;">
-</div>
-
-
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="Version control.gif">
+</a>
+<h2>👩‍💻 About Me</h2>
+- 🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
+- 👥 I love working in teams and collaborating on projects.</li>
+- 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
+- 🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
+- 💻 I enjoy building creative projects.</li>
+- 🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
+- 💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
+  
 ## 💼 Technical Skills
 
 My expertise lies in crafting robust solutions using a variety of programming languages and technologies, including:
