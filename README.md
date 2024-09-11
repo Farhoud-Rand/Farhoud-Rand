@@ -6,11 +6,8 @@ Hi, I'm Rand Farhoud
 </p>
 
 <p align="center">
-  <table>
+  <table style="border-collapse: collapse; width: auto; margin: 0 auto;">
     <tr>
-      <td style="vertical-align: middle;">
-        <img src="Version control.gif" width="200" alt="Version Control GIF">
-      </td>
       <td style="vertical-align: middle; padding-left: 20px;">
         <h2>👩‍💻 About Me</h2>
         <ul>
@@ -22,6 +19,9 @@ Hi, I'm Rand Farhoud
           <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
           <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
         </ul>
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="Version control.gif" width="200" alt="Version Control GIF">
       </td>
     </tr>
   </table>
