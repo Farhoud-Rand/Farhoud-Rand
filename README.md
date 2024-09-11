@@ -4,10 +4,6 @@ Hi, I'm Rand Farhoud
 
 <div align="center">
   <img src="gif.gif" alt="Introduction" >
-</div># Welcome to My Profile! 👋
-
-<div align="center">
-  <img src="gif.gif" alt="Introduction" >
 </div>
 
 <h2 align="center">
