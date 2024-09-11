@@ -4,7 +4,7 @@ Hi, I'm Rand Farhoud
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
-<a target="_blank" align="center">
+<a target="_blank" align="heart">
   <img align="right" top="800" height="300" width="400" alt="GIF" src="Version control.gif">
 </a>
 <h2>👩‍💻 About Me</h2>
@@ -17,7 +17,7 @@ Hi, I'm Rand Farhoud
       <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
       <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
 </ul>
-  
+
 ## 💼 Technical Skills
 
 My expertise lies in crafting robust solutions using a variety of programming languages and technologies, including:
