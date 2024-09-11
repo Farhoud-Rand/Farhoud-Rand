@@ -6,7 +6,7 @@ Hi, I'm Rand Farhoud
 </p>
 
 <p align="center">
-  <table style="border-collapse: collapse; width: auto; margin: 0 auto;">
+  <table style="border-collapse: collapse; width: auto; margin: 0 auto;border: none;">
     <tr>
       <td style="vertical-align: middle; padding-left: 20px; border: none;">
         <h2>👩‍💻 About Me</h2>
@@ -21,7 +21,7 @@ Hi, I'm Rand Farhoud
         </ul>
       </td>
       <td style="vertical-align: middle; border: none;">
-        <img src="Version control.gif" width="400" alt="Version Control GIF">
+        <img src="Version control.gif" width="300" alt="Version Control GIF">
       </td>
     </tr>
   </table>
