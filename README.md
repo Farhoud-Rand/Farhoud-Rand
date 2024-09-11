@@ -50,24 +50,12 @@ These tools empower me to turn ideas into reality and solve complex problems ele
 Over the years, I've had the opportunity to work on some exciting projects, each of which helped me sharpen my skills and solve unique problems. Here’s a glimpse of what I’ve been working on:
 
 ### 🔗 [LinkUp](https://github.com/mustafataha5/LinkUp)
-**Technologies:** React, Node.js, MongoDB, Express.js  
-**Overview:**  
-LinkUp is a dynamic social media platform that connects users, allowing for profile creation, content interaction, and real-time engagement through posts, comments, likes and chat.
 
 ### 🐾 [SOAR (Support Our Adoption Rescue)](https://github.com/SaidQT/SOAR)
-**Technologies:** Spring Boot, MySQL  
-**Overview:**  
-SOAR is a pet adoption platform aimed at connecting rescue shelters with potential adopters. SOAR offers a secure way to browse pets, request adoptions, and communicate with shelters, enhancing animal welfare through technology.
 
 ### 📚 [KidsWorld](https://github.com/Farhoud-Rand/KidsWorld)
-**Technologies:** Django, SQLite  
-**Overview:**  
-KidsWorld provides a safe, interactive platform for children to explore a variety of age-appropriate stories, promoting a love for reading through an engaging and user-friendly experience.
 
 ### 🚗 [ParkRamallah](https://github.com/Farhoud-Rand/ParkRamallah)
-**Technologies:** Django, SQLite  
-**Overview:**  
-ParkRamallah is a municipal parking management website that allows users to select and manage parking locations while enabling employees to add new lots. This solo project highlights my skills in developing and implementing comprehensive urban solutions.
 
 ## 🤝 Get in Touch
 
