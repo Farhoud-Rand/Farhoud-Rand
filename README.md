@@ -8,13 +8,15 @@ Hi, I'm Rand Farhoud
   <img align="right" top="500" height="300" width="400" alt="GIF" src="Version control.gif">
 </a>
 <h2>👩‍💻 About Me</h2>
-- 🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
-- 👥 I love working in teams and collaborating on projects.</li>
-- 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
-- 🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
-- 💻 I enjoy building creative projects.</li>
-- 🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
-- 💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
+ <ul>
+      <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
+      <li>👥 I love working in teams and collaborating on projects.</li>
+      <li>👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
+      <li>🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
+      <li>💻 I enjoy building creative projects.</li>
+      <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
+      <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
+</ul>
   
 ## 💼 Technical Skills
 
