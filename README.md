@@ -52,22 +52,21 @@ Over the years, I've had the opportunity to work on some exciting projects, each
 ### 🔗 [LinkUp](https://github.com/mustafataha5/LinkUp)
 **Technologies:** React, Node.js, MongoDB, Express.js  
 **Overview:**  
-LinkUp is a dynamic social media platform designed to connect users and facilitate engagement through posts, comments, and likes. LinkUp allows users to create profiles, follow others, and interact with content in real-time.
+LinkUp is a dynamic social media platform that connects users, allowing for profile creation, content interaction, and real-time engagement through posts, comments, likes and chat.
 
 ### 🐾 [SOAR (Support Our Adoption Rescue)](https://github.com/SaidQT/SOAR)
 **Technologies:** Java, Spring Boot, MySQL  
 **Overview:**  
-SOAR is a pet adoption platform aimed at connecting rescue shelters with potential adopters. SOAR offers a secure, efficient way for users to browse pets, request adoptions, and communicate with shelters. This project aligns with my passion for using tech to make a positive difference, especially in animal welfare.
+SOAR is a pet adoption platform aimed at connecting rescue shelters with potential adopters. SOAR offers a secure way to browse pets, request adoptions, and communicate with shelters, enhancing animal welfare through technology.
 
 ### 📚 [KidsWorld](https://github.com/Farhoud-Rand/KidsWorld)
 **Technologies:** Django, SQLite  
 **Overview:**  
-KidsWorld is an online platform designed to provide a safe and engaging environment for children to explore and enjoy a diverse range of stories suitable for various ages. The platform allows administrators to curate and manage a collection of stories, while users can easily discover, read, and interact with the content. With an emphasis on simplicity, creativity, and interactivity, KidsWorld aims to foster a love for reading and storytelling among young audiences by creating a vibrant and user-friendly space.
+KidsWorld provides a safe, interactive platform for children to explore a variety of age-appropriate stories, promoting a love for reading through an engaging and user-friendly experience.
 
 ### 🚗 [ParkRamallah](https://github.com/Farhoud-Rand/ParkRamallah)
 **Technologies:** Django, SQLite  
-**Overview:**  
-ParkRamallah is a municipal parking management website designed to provide residents and visitors with seamless access to parking lots. Users can easily select their preferred parking location and specify the desired duration. The platform also empowers municipality employees to add new parking lots as needed, ensuring the system remains dynamic and responsive to evolving requirements. This solo project showcases my ability to independently develop and implement a comprehensive solution for urban parking management.
+**Overview:** ParkRamallah is a municipal parking management website that allows users to select and manage parking locations while enabling employees to add new lots. This solo project highlights my skills in developing and implementing comprehensive urban solutions.
 
 ## 🤝 Get in Touch
 
