@@ -5,9 +5,10 @@ Hi, I'm Rand Farhoud
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
 
+<h2 align="center">👩‍💻 About Me</h2>
+
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin: 0 auto; max-width: 800px;">
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
-    <h2>👩‍💻 About Me</h2>
     <ul>
       <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
       <li>👥 I love working in teams and collaborating on projects.</li>
