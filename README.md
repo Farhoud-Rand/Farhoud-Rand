@@ -5,15 +5,22 @@ Hi, I'm Rand Farhoud
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
 
-## 👩‍💻 About Me
-
-- 🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.
-- 👥 I love working in teams and collaborating on projects.
-- 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.
-- 🐾 I'm an animal lover and have worked on pet adoption platforms.
-- 💻 I enjoy building creative projects.
-- 🎯 I focus on writing clean, detailed code with attention to styling and structure.
-- 💡 I enjoy tackling complex coding challenges across different tech stacks.
+<!-- About Me Section with GIF and text side by side -->
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" style="margin-right: 20px;" alt="Version Control GIF">
+  <div>
+    <h2>👩‍💻 About Me</h2>
+    <ul>
+      <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
+      <li>👥 I love working in teams and collaborating on projects.</li>
+      <li>👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
+      <li>🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
+      <li>💻 I enjoy building creative projects.</li>
+      <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
+      <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
+    </ul>
+  </div>
+</div>
 
 ## 💼 Technical Skills
 
