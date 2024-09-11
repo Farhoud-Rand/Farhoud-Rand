@@ -6,7 +6,7 @@ Hi, I'm Rand Farhoud
 </p>
 
 <!-- About Me Section with GIF and text side by side -->
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="Version control.gif" width="200" style="margin-right: 20px;" alt="Version Control GIF">
   <div>
     <h2>👩‍💻 About Me</h2>
@@ -21,6 +21,7 @@ Hi, I'm Rand Farhoud
     </ul>
   </div>
 </p>
+
 
 ## 💼 Technical Skills
 
