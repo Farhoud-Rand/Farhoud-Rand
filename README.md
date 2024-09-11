@@ -68,9 +68,9 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 ## 📈 GitHub Stats & Activity
 <p align="center">
   <a href="https://github.com/Farhoud-Rand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=tokyonight" alt="Top Languages" style="margin-right: 10px;" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=tokyonight" alt="GitHub Streak" width="45%" style="margin-left: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=tokyonight" alt="GitHub Streak"  style="margin-left: 10px;" />
   </a>
 </p>
