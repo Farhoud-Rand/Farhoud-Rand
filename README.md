@@ -5,21 +5,26 @@ Hi, I'm Rand Farhoud
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
 
-<!-- About Me Section with GIF and text side by side -->
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="Version control.gif" width="200" style="margin-right: 20px;" alt="Version Control GIF">
-  <div>
-    <h2>👩‍💻 About Me</h2>
-    <ul>
-      <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
-      <li>👥 I love working in teams and collaborating on projects.</li>
-      <li>👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
-      <li>🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
-      <li>💻 I enjoy building creative projects.</li>
-      <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
-      <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
-    </ul>
-  </div>
+<p align="center">
+  <table>
+    <tr>
+      <td style="vertical-align: middle;">
+        <img src="Version control.gif" width="200" alt="Version Control GIF">
+      </td>
+      <td style="vertical-align: middle; padding-left: 20px;">
+        <h2>👩‍💻 About Me</h2>
+        <ul>
+          <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
+          <li>👥 I love working in teams and collaborating on projects.</li>
+          <li>👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.</li>
+          <li>🐾 I'm an animal lover and have worked on pet adoption platforms.</li>
+          <li>💻 I enjoy building creative projects.</li>
+          <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
+          <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
