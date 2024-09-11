@@ -5,7 +5,7 @@ Hi, I'm Rand Farhoud
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
 
-<p align="center">
+<p >
   <table style="border-collapse: collapse; width: auto; margin: 0 auto;border: none;">
     <tr>
       <td style="vertical-align: middle; padding-left: 20px; border: none;">
