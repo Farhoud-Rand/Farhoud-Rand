@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Farhoud-Rand&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 <h1 align="center">
 Hi, I'm Rand Farhoud
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -11,8 +9,6 @@ Hi, I'm Rand Farhoud
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻
 </h2> 
-
-I am passionate about logical thinking and the process of finding multiple solutions to a problem to discover the best one. I thrive on the challenge of developing creative websites, where I apply my analytical skills to craft efficient and innovative solutions.
 
 ## 👩‍💻 About Me
 
@@ -42,10 +38,14 @@ These tools empower me to turn ideas into reality and solve complex problems ele
 - Express.js
 - React
 - Node.js
-- 
+  
 ## 🎮 Fun Facts About Me
-- 💡 I love solving coding challenges on LeetCode.
-- 🐱 I’m a huge fan of animals and contribute to pet adoption platforms.
+- 👥 I love working in teams and collaborating on projects.
+- 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.
+- 🐾 I'm an animal lover and have worked on pet adoption platforms.
+- 💻 I enjoy building creative projects.
+- 🎯 I focus on writing clean, detailed code with attention to styling and structure.
+- 💡 I enjoy tackling complex coding challenges across different tech stacks.
 
 ## 🚀 Projects & Achievements
 
