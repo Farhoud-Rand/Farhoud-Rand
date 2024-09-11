@@ -7,7 +7,7 @@ Hi, I'm Rand Farhoud
 
 <!-- About Me Section with GIF and text side by side -->
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" style="margin-right: 20px;" alt="Version Control GIF">
+  <img src="Version control.gif" width="200" style="margin-right: 20px;" alt="Version Control GIF">
   <div>
     <h2>👩‍💻 About Me</h2>
     <ul>
