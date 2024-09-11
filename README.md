@@ -47,31 +47,28 @@ These tools empower me to turn ideas into reality and solve complex problems ele
 - Node.js
 
 ## 🚀 Projects & Achievements
-## 💼 My Projects <img src="https://your-repo-url/animated-lightbulb.gif" width="30px">
-
 Over the years, I've had the opportunity to work on some exciting projects, each of which helped me sharpen my skills and solve unique problems. Here’s a glimpse of what I’ve been working on:
 
-### 🔗 **LinkUp**
+### 🔗 [LinkUp](https://github.com/mustafataha5/LinkUp)
 **Technologies:** React, Node.js, MongoDB, Express.js  
 **Overview:**  
-LinkUp is a dynamic social media platform designed to connect users and facilitate engagement through posts, comments, and likes. Built with React on the frontend and Node.js with MongoDB on the backend, LinkUp allows users to create profiles, follow others, and interact with content in real-time. The project also integrates real-time notifications and a personalized feed, making it a robust platform for social interaction.
+LinkUp is a dynamic social media platform designed to connect users and facilitate engagement through posts, comments, and likes. LinkUp allows users to create profiles, follow others, and interact with content in real-time.
 
-### 🐾 **SOAR (Support Our Adoption Rescue)**
+### 🐾 [SOAR (Support Our Adoption Rescue)](https://github.com/SaidQT/SOAR)
 **Technologies:** Java, Spring Boot, MySQL  
 **Overview:**  
-SOAR is a pet adoption platform aimed at connecting rescue shelters with potential adopters. Built using Java and Spring Boot, SOAR offers a secure, efficient way for users to browse pets, request adoptions, and communicate with shelters. As part of the project, I implemented complex role-based access control, allowing administrators, shop owners, and users to interact with the platform in unique ways. This project aligns with my passion for using tech to make a positive difference, especially in animal welfare.
+SOAR is a pet adoption platform aimed at connecting rescue shelters with potential adopters. SOAR offers a secure, efficient way for users to browse pets, request adoptions, and communicate with shelters. This project aligns with my passion for using tech to make a positive difference, especially in animal welfare.
 
-### 📚 **KidsWorld**
+### 📚 [KidsWorld](https://github.com/Farhoud-Rand/KidsWorld)
 **Technologies:** Django, SQLite  
 **Overview:**  
-KidsWorld is an interactive platform where children can discover educational and entertaining stories. The app features a vibrant UI with parental control features, making it a safe space for children to explore content. With React on the frontend and Django powering the backend, KidsWorld allows parents to monitor their children’s reading activities while providing a fun, engaging experience. I particularly enjoyed working on the content filtering system and designing the frontend to be both playful and user-friendly.
+KidsWorld is an online platform designed to provide a safe and engaging environment for children to explore and enjoy a diverse range of stories suitable for various ages. The platform allows administrators to curate and manage a collection of stories, while users can easily discover, read, and interact with the content. With an emphasis on simplicity, creativity, and interactivity, KidsWorld aims to foster a love for reading and storytelling among young audiences by creating a vibrant and user-friendly space.
 
-### 🚗 **ParkRamallah**
+### 🚗 [ParkRamallah](https://github.com/Farhoud-Rand/ParkRamallah)
 **Technologies:** Django, SQLite  
 **Overview:**  
-ParkRamallah is a municipal parking management system for the city of Ramallah. Developed with Django, it allows users to find available parking spots, reserve them, and pay via a secure online platform. Administrators can monitor parking lot usage, manage users, and optimize parking solutions based on real-time data. This project was an excellent opportunity for me to dive deeper into geolocation services and city infrastructure technology.
+ParkRamallah is a municipal parking management website designed to provide residents and visitors with seamless access to parking lots. Users can easily select their preferred parking location and specify the desired duration. The platform also empowers municipality employees to add new parking lots as needed, ensuring the system remains dynamic and responsive to evolving requirements. This solo project showcases my ability to independently develop and implement a comprehensive solution for urban parking management.
 
-  
 ## 🤝 Get in Touch
 
 I'm always excited to connect with fellow enthusiasts, collaborate on projects, or chat about the latest tech trends. Feel free to reach out via:
