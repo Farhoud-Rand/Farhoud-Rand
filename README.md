@@ -5,8 +5,8 @@ Hi, I'm Rand Farhoud
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+🖥️+💻;Full+Stack+Web+Developer+💻+🌐;Always+Learning+New+Things+📚&center=true&width=380&height=45"></a>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <p>
+<div style="display: flex; align-items: center; justify-content: space-between; margin: 0 auto; max-width: 800px;">
+  <div style="flex: 1; padding-right: 20px;">
     <h2>👩‍💻 About Me</h2>
     <ul>
       <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
@@ -17,8 +17,8 @@ Hi, I'm Rand Farhoud
       <li>🎯 I focus on writing clean, detailed code with attention to styling and structure.</li>
       <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
     </ul>
-  </p>
-  <img src="Version control.gif" width="300" alt="Version Control GIF">
+  </div>
+  <img src="Version control.gif" width="300" alt="Version Control GIF" style="flex-shrink: 0;">
 </div>
 
 
