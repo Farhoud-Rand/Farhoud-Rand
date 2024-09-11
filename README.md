@@ -66,7 +66,7 @@ KidsWorld provides a safe, interactive platform for children to explore a variet
 
 ### 🚗 [ParkRamallah](https://github.com/Farhoud-Rand/ParkRamallah)
 **Technologies:** Django, SQLite  
-**Overview:** 
+**Overview:**  
 ParkRamallah is a municipal parking management website that allows users to select and manage parking locations while enabling employees to add new lots. This solo project highlights my skills in developing and implementing comprehensive urban solutions.
 
 ## 🤝 Get in Touch
