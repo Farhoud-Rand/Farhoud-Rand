@@ -7,7 +7,7 @@ Hi, I'm Rand Farhoud
 
 <h2>👩‍💻 About Me</h2>
 <a target="_blank" align="center">
-  <img align="right" top="800" width="200" alt="GIF" src="Version control.gif">
+  <img align="right" top="800" width="250" alt="GIF" src="Version control.gif">
 </a>
  <ul>
       <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
