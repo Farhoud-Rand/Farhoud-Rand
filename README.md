@@ -86,7 +86,7 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 </p>
 <p>
   <a href="https://github.com/Farhoud-Rand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=cobalt" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&theme=cobalt" alt="Top Languages" />
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=cobalt" alt="GitHub Streak" />
