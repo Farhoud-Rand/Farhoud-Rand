@@ -70,7 +70,7 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 
 <p>
   <a href="https://github.com/Farhoud-Rand">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact&theme=radical" alt="Top Languages" />
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=radical" alt="GitHub Streak" />
