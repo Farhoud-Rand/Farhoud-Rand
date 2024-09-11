@@ -8,7 +8,7 @@ Hi, I'm Rand Farhoud
 <p align="center">
   <table style="border-collapse: collapse; width: auto; margin: 0 auto;">
     <tr>
-      <td style="vertical-align: middle; padding-left: 20px;">
+      <td style="vertical-align: middle; padding-left: 20px; border: none;">
         <h2>👩‍💻 About Me</h2>
         <ul>
           <li>🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.</li>
@@ -20,8 +20,8 @@ Hi, I'm Rand Farhoud
           <li>💡 I enjoy tackling complex coding challenges across different tech stacks.</li>
         </ul>
       </td>
-      <td style="vertical-align: middle;">
-        <img src="Version control.gif" width="200" alt="Version Control GIF">
+      <td style="vertical-align: middle; border: none;">
+        <img src="Version control.gif" width="400" alt="Version Control GIF">
       </td>
     </tr>
   </table>
