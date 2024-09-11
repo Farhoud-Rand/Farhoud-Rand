@@ -9,10 +9,18 @@ Hi, I'm Rand Farhoud
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻
 </h2> 
+I am passionate about logical thinking and the process of finding multiple solutions to a problem to discover the best one. I thrive on the challenge of developing creative websites, where I apply my analytical skills to craft efficient and innovative solutions.
 
 ## 👩‍💻 About Me
 
-I'm a passionate Computer Engineering graduate from Birzeit University, on a perpetual journey of learning and innovation. Currently enrolled in a course at Axsos Academy, I'm expanding my skill set and exploring new horizons in technology.
+- 🎓 I'm a passionate Computer Engineering graduate from Birzeit University and a proud graduate of AXSOS Academy, on a perpetual journey of learning and innovation.
+- 👥 I love working in teams and collaborating on projects.
+- 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.
+- 🐾 I'm an animal lover and have worked on pet adoption platforms.
+- 💻 I enjoy building creative projects like *KidsWorld* and *LinkUp*.
+- 🚀 Currently expanding my skill set and exploring new horizons in technology.
+- 🎯 I focus on writing clean, detailed code with attention to styling and structure.
+- 💡 I enjoy tackling complex coding challenges across different tech stacks.
 
 ## 💼 Technical Skills
 
@@ -38,14 +46,6 @@ These tools empower me to turn ideas into reality and solve complex problems ele
 - Express.js
 - React
 - Node.js
-  
-## 🎮 Fun Facts About Me
-- 👥 I love working in teams and collaborating on projects.
-- 👩‍🏫 I'm passionate about helping people in tech and enjoy teaching.
-- 🐾 I'm an animal lover and have worked on pet adoption platforms.
-- 💻 I enjoy building creative projects.
-- 🎯 I focus on writing clean, detailed code with attention to styling and structure.
-- 💡 I enjoy tackling complex coding challenges across different tech stacks.
 
 ## 🚀 Projects & Achievements
 
@@ -66,12 +66,13 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 </br>
 - Let's build something amazing together! 💡
 
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Farhoud-Rand)](https://github.com/Farhoud-Rand)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact)](https://github.com/Farhoud-Rand)
-
 ## 📈 GitHub Stats & Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=radical)](https://git.io/streak-stats)
+<p>
+  <a href="https://github.com/Farhoud-Rand">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhoud-Rand&layout=compact" alt="Top Languages" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
