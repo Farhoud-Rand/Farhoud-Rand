@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Farhoud-Rand&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 <h1 align="center">
 Hi, I'm Rand Farhoud
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -73,5 +75,3 @@ I'm always excited to connect with fellow enthusiasts, collaborate on projects, 
 ## 📈 GitHub Stats & Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farhoud-Rand&theme=radical)](https://git.io/streak-stats)
-
-[![Rand's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Farhoud-Rand&theme=dracula)](https://github.com/Farhoud-Rand)
